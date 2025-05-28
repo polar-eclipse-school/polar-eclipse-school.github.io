@@ -1,0 +1,36 @@
+- id: no-tech-for-apartheid
+  name: Tech enabled systematic violation of human rights in the Middle East
+  date: 2024-03-22
+  materials:
+    - NoTechForApartheid - Panel discussion
+    - NoTechForApartheid - Blog post by Timnit Gebru
+
+- id: un-perspectives-militarisation
+  name: UN's perspective on AI militarisation and its implications in the world
+  date: 2024-04-05
+  materials:
+    - Artificial Intelligence Beyond Weapons
+
+- id: decolonial-ai
+  name: Introduction of the Critical Science Reading Group & Decolonial AI
+  date: 2025-05-02
+  materials:
+    - "Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence"
+
+- id: values-encoded-in-ml
+  name: The Values Encoded in Machine Learning Research
+  date: 2025-05-16
+  materials:
+    - "The Values Encoded in Machine Learning Research"
+
+- id: great-transition
+  name: Exploring roles for technology in radical theories of change
+  date: 2025-05-30
+  materials:
+    - "Talk: Exploring roles for technology in radical theories of change"
+    
+- id: military-moral
+  name: Military Funds, Moral Demands
+  date: 2025-06-13
+  materials:
+    - "Military Funds, Moral Demands, Personal Responsibilities of the Individual Scientist"

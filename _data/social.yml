@@ -1,0 +1,13 @@
+# https://fontawesome.com/
+- name: GitHub
+  link: https://github.com/polar-eclipse-school
+  icon:
+    source: fa
+    name: fa-github
+    type: fab
+- name: Instagram
+  link: https://www.instagram.com/school_polareclipse/
+  icon:
+    source: fa
+    name: fa-instagram
+    type: fab
