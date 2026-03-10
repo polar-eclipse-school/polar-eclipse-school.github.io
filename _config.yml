@@ -19,6 +19,7 @@ email: julia.kaltenborn[at]mail.mcgill.ca
 description: Website of the Polar ECLIPSE School
 author: Julia Kaltenborn
 url: https://polar-eclipse-school.github.io
+logo: /assets/images/favicon.png
 
 # Custom variables
 hero_image: /assets/images/banner/eclipse_aurora_cropped.jpeg

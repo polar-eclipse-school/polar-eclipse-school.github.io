@@ -1,5 +1,15 @@
-<footer class="footer">
+<footer class="footer has-background-black">
   <div class="content has-text-centered is-size-7">
+    <div class="container">
+      <a href="https://www.igsoc.org/" style="margin-right: 25px;">
+        <img src="assets/images/support/IGS_logo.png" alt="IGS Logo" width="75" align="middle">
+      </a>
+      <a href="https://atmosbios.com/">
+        <img src="assets/images/support/atmosbios_logo.png" alt="ATMOSBIOS Lab Logo" width="250" align="middle">
+      </a>
+    </div>
+    <br>
+    <br>
     {% capture content %}{% include footer.md %}{% endcapture %}
     {{ content | markdownify }}
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">

@@ -13,18 +13,19 @@
       rel="stylesheet"
       href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"
     >
-    <link rel="icon" href="{{ site.favicon | relative_url }}" type="image/x-icon">
+    <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
+    <!--<link rel="icon" href="{{ site.favicon | relative_url }}" type="image/x-icon">-->
     <!--{% feed_meta %}-->
     <script defer src="https://use.fontawesome.com/releases/v6.5.2/js/all.js"></script>
     <script src="/assets/js/navbar-burger.js"></script>
     {% seo %}
   </head>
-  <body>
+  <body class="has-background-black">
 		{% if site.hero_image %}
 			{% include hero.html %}
 		{% endif %}
     {% include navigation.html icon-size="lg" %}
-    <section class="section">
+    <section class="section has-background-black">
       <div class="container">
         {{ content }}
       </div>
