@@ -3,9 +3,41 @@ layout: page
 title: Schedule
 permalink: /schedule
 ---
-Details will follow soon.
+The schedule will be adapted to the participants - this is just a preliminary version.
 
-Information on how to prepare and what to pack will also be posted here.
+Information on how to prepare and what to pack will follow.
+
+## Preparation (1st of May - 1st of Aug)
+We will have monthly video calls (three in total) with participants prior to the workshop to get to know each other and plan individual contributions.
+
+## Field School (8th of Aug - 15th of Aug)
+
+#### 08.08 (Sat): Arrival
+Pick up at KEF International Airport and travel to the lodging facility in northern Iceland.
+
+#### 09.08 (Sun): Connection 
+Personal Stories: Who am I? Why am I here?
+
+#### 10.08 (Mon): Nature
+Listening and Connecting with Nature (Outdoor Activities): How do mountaineering, field scientists, and Indigenous participants engage with nature?
+
+#### 11.08 (Tue): Knowledge
+Engaging and Sharing Knowledge: Science communication, discussing philosophical essays, Indigenous knowledge systems.
+
+#### 12.08 (Wed): Art & Total Solar Eclipse 
+Experiencing and Expressing the Total Solar Eclipse: Artists support participants in finding their way of capturing and expressing their experiences.
+
+#### 13.08 (Thu): Action 
+Talks on Engagement and Activism: Group discussions and guided conversation on how we can counteract the effects of anti-democratic measures on Polar communities.
+
+#### 14.08 (Fri): Reflection
+Space for Thoughts: More nature, art, and sharing.
+
+#### 15.08 (Sat): Departure 
+Drop off at KEF International Airport.
+
+## Booklet (1st of Sep - 1st of Nov)
+Preparation of artistic (digital + printed) booklet that summarizes the workshop, in words, photographs, graphical records, audio, and other formats. (We will have a graphical recorder on board).
 
 Preliminary Schedule:
 - Saturday: Arrival.
@@ -24,7 +56,6 @@ Preliminary Schedule:
 
 - Saturday: Departure.
 
-There will be specific no-phone time.
 
 
 <!-- {% assign today = 'now' | date: "%Y-%m-%d" %}
