@@ -7,7 +7,7 @@ The schedule will be adapted to the participants - this is just a preliminary ve
 
 Information on how to prepare and what to pack will follow.
 
-## Preparation (1st of May - 1st of Aug)
+## Preparation (1st of June - 1st of Aug)
 We will have monthly video calls (three in total) with participants prior to the workshop to get to know each other and plan individual contributions.
 
 ## Field School (8th of Aug - 15th of Aug)
@@ -38,23 +38,6 @@ Drop off at KEF International Airport.
 
 ## Booklet (1st of Sep - 1st of Nov)
 Preparation of artistic (digital + printed) booklet that summarizes the workshop, in words, photographs, graphical records, audio, and other formats. (We will have a graphical recorder on board).
-
-Preliminary Schedule:
-- Saturday: Arrival.
-
-- Sunday: Connection. Personal Stories - Who am I and why am I here?
-
-- Monday: Nature. Listening to Glaciers, wandering and connecting with nature. Knowledge shared by participants who usually engage in fieldwork or hold traditional knowledge.
-
-- Tuesday: Books. Session by scientist participants. Activity can range from giving a talk, to discussing philosophical essays.
-
-- Wednesday: Art. Solar Eclipse. Space to capture thoughts and nature in different artistic formats. Artist participants offer sessions to share their way to approach art.
-
-- Thursday: Action. Invited Talk on Science and Activism. Group discussions. Guided conversation on how we can counteract effects of anti-democratic measures on Polar communities.
-
-- Friday: Reflection. Space for thoughts. More nature.
-
-- Saturday: Departure.
 
 
 
