@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Polar ECLIPSE School
-tagline: Early Career Learning and Integration in Polar Science Engagement
+title: Polar ECLIPSE Program
+tagline: Resilience through Transdisciplinary Community Building
+#Early Career Learning and Integration in Polar Science Engagement
 email: julia.kaltenborn[at]mail.mcgill.ca
-description: Website of the Polar ECLIPSE School
+description: Website of the Polar ECLIPSE Program
 author: Julia Kaltenborn
 url: https://polar-eclipse-school.github.io
 logo: /assets/images/favicon.png

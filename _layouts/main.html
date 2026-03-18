@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="theme-dark">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,12 +20,12 @@
     <script src="/assets/js/navbar-burger.js"></script>
     {% seo %}
   </head>
-  <body class="has-background-black">
+  <body>
 		{% if site.hero_image %}
 			{% include hero.html %}
 		{% endif %}
     {% include navigation.html icon-size="lg" %}
-    <section class="section has-background-black">
+    <section class="section">
       <div class="container">
         {{ content }}
       </div>
