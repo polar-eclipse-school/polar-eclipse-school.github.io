@@ -5,7 +5,7 @@ image: /assets/images/solar_eclipse.png
 show_news: false
 ---
 ### Who?
-We call for members of the polar community to participate:
+We call for anyone interested in the polar communities to participate:
 
 @Scientists, @Artists, @Activists, 
 @KnowledgeHolders, @Guardians, @Naturists,
@@ -15,10 +15,12 @@ We call for members of the polar community to participate:
 8th - 15th of August 2026
 
 ### Where?
-Meeting at the boundaries of our worlds: [Skagafjörður](https://en.wikipedia.org/wiki/Skagafj%C3%B6r%C3%B0ur), Iceland. (Gimbur Guesthouse)
+Gimbur Guesthouse, [Skagafjörður](https://en.wikipedia.org/wiki/Skagafj%C3%B6r%C3%B0ur), Iceland. Meal costs are covered.
 
 ### What?
 The Polar Eclipse Field School is a diverse, multi-disciplinary program, timed during the total solar eclipse. Its goal is to connect Polar community members across the sciences, arts, local communities, and mountaineers. We provide a space for 12 selected participants to share experiences, reflect on narratives, and build community. Our unique location enables participants to learn not just from each other, but from nature in nature. We hope that this way, we can strengthen, inspire, and engage members of the Polar community.
+
+The Polar Eclipse School follows the [Berlin Code of Conduct](https://berlincodeofconduct.org/en).
 
 
 <!--These days, snow, ice, permafrost, jobs, funding, and subsequently a future are disappearing for a large part of the Polar community. It is time to connect across border and disciplines, and learn from each other and build resilience through community. Every participant (total of 12) will bring their own experience and skills to share with the group. 

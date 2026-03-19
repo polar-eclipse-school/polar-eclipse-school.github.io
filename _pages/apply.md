@@ -10,4 +10,4 @@ Applications are open until **1st of May 2026**.
 
 Applicants will receive notifications by the 23rd of May 2026.
 
-We encourage especially people with non-traditional careers/education to apply, as well as individuals who are underrepresented in the Polar community.
+We encourage all to apply who are interested in the program.
