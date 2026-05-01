@@ -6,7 +6,7 @@ permalink: /apply
 
 [Click here to apply (GoogleForms).](https://forms.gle/ceHqnuJcMSfg9uy1A)
 
-Applications are open until **1st of May 2026**.
+Applications are open until **10th of May 2026** (we extended the deadline).
 
 Applicants will receive notifications by the 23rd of May 2026.
 

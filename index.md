@@ -7,8 +7,8 @@ show_news: false
 ### Who?
 We call for anyone interested in the polar communities to participate:
 
+@KnowledgeHolders, @Guardians, @Naturalists,
 @Scientists, @Artists, @Activists, 
-@KnowledgeHolders, @Guardians, @Naturists,
 @Mountaineers, @CommunityBuilders 
 
 ### When?
